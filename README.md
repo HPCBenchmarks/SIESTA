@@ -1,2 +1,2 @@
 # SIESTA
-SIESTA Benchmarks
+Set of  benchmarks for SIESTA.
